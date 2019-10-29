@@ -1,3 +1,9 @@
 # React-Express Setup
 
-### Folder structure and packages boilerplate
+
+### Folder structure
+  ... 
+### Packages
+  ...
+### Boilerplate
+  ...
